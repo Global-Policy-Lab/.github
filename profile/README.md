@@ -28,3 +28,5 @@ We encourage those people using our code to make contributions to our codebases.
 #### 2018
 - Druckenmiller and Hsiang (2018). Accounting for Unobservable Heterogeneity in Cross Section Using Spatial First Differences. [_NBER Working Paper_](https://www.nber.org/papers/w25177). [Code available](https://github.com/hdruckenmiller/SFD).
 
+
+_Older projects will be listed soon_
