@@ -16,7 +16,7 @@ We encourage those people using our code to make contributions to our codebases.
 - Huang et al (2021). Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs. [Paper](https://www.nber.org/papers/w29105)). [Code](https://github.com/luna983/beyond-nightlight).
 
 #### 2020
-- Hsiang et al (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. [Paper](The effect of large-scale anti-contagion policies on the COVID-19 pandemic). [Code](https://codeocean.com/capsule/1887579/tree/v1).
+- Hsiang et al (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. [Paper](https://www.nature.com/articles/s41586-020-2404-8). [Code](https://codeocean.com/capsule/1887579/tree/v1).
 
 #### 2018
 - Druckenmiller and Hsiang (2018). Accounting for Unobservable Heterogeneity in Cross Section Using Spatial First Differences. [Paper](https://www.nber.org/papers/w25177) [Code](https://github.com/hdruckenmiller/SFD).
