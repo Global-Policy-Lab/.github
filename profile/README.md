@@ -4,6 +4,7 @@ Note that while many Global Policy Lab repositories are hosted under the organiz
 ## Contributing to our code base
 We encourage those people using our code to make contributions to our codebases. While some code must persist unchanged for replication purposes, other code bases are designed to be continuously expanded. For questions, contact Luke Sherman via lsherman@berkeley.edu.
 
+## Projects with replication code
 #### 2023
 - Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/lukesherman/hdi_downscaling_mosaiks). [Data available](mosaiks.org/hdi).
 
