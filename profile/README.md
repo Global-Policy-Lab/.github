@@ -5,19 +5,17 @@ Note that while many Global Policy Lab repositories are hosted under the organiz
 We encourage those people using our code to make contributions to our codebases. While some code must persist unchanged for replication purposes, other code bases are designed to be continuously expanded. For questions, contact Luke Sherman via lsherman@berkeley.edu.
 
 #### 2023
-- Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code Available](https://github.com/lukesherman/hdi_downscaling_mosaiks). [Data available](mosaiks.org/hdi).
+- Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/lukesherman/hdi_downscaling_mosaiks). [Data available](mosaiks.org/hdi).
 
 #### 2022
-- Chi et al (2022). Micro-estimates of wealth for all low- and middle-income countries. [_PNAS_](https://www.pnas.org/doi/pdf/10.1073/pnas.2113658119). [Website](http://www.povertymaps.net/#4.09/-12.84/27.34/-15.2/60). [Code available](https://github.com/g-chi/lmic-poverty). [Data](https://data.humdata.org/dataset/relative-wealth-index).
+- Chi et al (2022). Micro-estimates of wealth for all low- and middle-income countries. [_PNAS_](https://www.pnas.org/doi/pdf/10.1073/pnas.2113658119). [Website](http://www.povertymaps.net/#4.09/-12.84/27.34/-15.2/60). [Code available](https://github.com/g-chi/lmic-poverty). [Data availabe](https://data.humdata.org/dataset/relative-wealth-index).
 - Krasovich et al (2022). Harmonized nitrogen and phosphorus concentrations in the Mississippi/Atchafalaya River Basin from 1980 to 2018. [_Scientific Data_](https://www.nature.com/articles/s41597-022-01650-6). [Code available](https://doi.org/10.4211/hs.9547035cf37940eb9b500b7994a378a1).
 - Aiken et al (2022). Machine learning and phone data can improve targeting of humanitarian aid. [_Nature_](https://www.nature.com/articles/s41586-022-04484-9). [Code available](https://github.com/emilylaiken/togo-targeting-replication/).
 - Smythe and Blumentsock (2022). Geographic microtargeting of social assistance with high-resolution poverty maps [_PNAS_](https://www.pnas.org/doi/pdf/10.1073/pnas.2113658119). [Code available](https://github.com/issmythe/nigeria_poverty_mapping). 
-- 
+
 #### 2021
 - Ilin et al (2021). Public mobility data enables COVID-19 forecasting and management at local and global scales. [_Scientific Reports_](https://www.nature.com/articles/s41598-021-92892-8). Code and data available by request.
-- 
-- Rolf et al (2021). A generalizable and accessible approach to machine learning with global satellite imagery. [_Nature Communication_s](https://www.nature.com/articles/s41467-021-24638-z). [Code available](https://github.com/Global-Policy-Lab/mosaiks-paper). [Website](mosaiks.org).
-
+- Rolf et al (2021). A generalizable and accessible approach to machine learning with global satellite imagery. [_Nature Communications_](https://www.nature.com/articles/s41467-021-24638-z). [Code available](https://github.com/Global-Policy-Lab/mosaiks-paper). [Website](mosaiks.org).
 - Huang et al (2021). Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs. [_NBER Working Paper_](https://www.nber.org/papers/w29105). [Code available](https://github.com/luna983/beyond-nightlight).
 
 #### 2020
