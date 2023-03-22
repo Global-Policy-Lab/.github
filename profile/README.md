@@ -13,7 +13,7 @@ We encourage those people using our code to make contributions to our codebases.
 #### 2021
 - Rolf et al (2021). A generalizable and accessible approach to machine learning with global satellite imagery. [Paper](https://www.nature.com/articles/s41467-021-24638-z). [Code](https://github.com/Global-Policy-Lab/mosaiks-paper). [Website](mosaiks.org).
 
-- Huang et al (2021). Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs. [Paper](https://www.nber.org/papers/w29105)). [Code](https://github.com/luna983/beyond-nightlight).
+- Huang et al (2021). Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs. [Paper](https://www.nber.org/papers/w29105). [Code](https://github.com/luna983/beyond-nightlight).
 
 #### 2020
 - Hsiang et al (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. [Paper](https://www.nature.com/articles/s41586-020-2404-8). [Code](https://codeocean.com/capsule/1887579/tree/v1).
