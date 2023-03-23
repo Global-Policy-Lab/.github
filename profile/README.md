@@ -9,7 +9,7 @@ Code-based tools and packages are designed for general use in the research commu
 
 - Cider - Python package for poverty prediction and targeting with mobile phone metadata. [Code available](https://github.com/Global-Policy-Lab/cider). [Documentation available](https://global-policy-lab.github.io/cider-documentation/intro.html). See also [Aiken et al, 2022](https://www.nature.com/articles/s41586-022-04484-9).
 
-- SFD - R code for for computing the spatial first differences (SFD) estimator. SFD is a research design that exploits the spatial structure of the data to address unobservable heterogeneity in cross section. [Code available](https://github.com/Global-Policy-Lab/cider). See also [Druckenmiller and Hsiang, 2018](https://www.nber.org/papers/w25177).
+- SFD - R code for for computing the spatial first differences (SFD) estimator. SFD is a research design that exploits the spatial structure of the data to address unobservable heterogeneity in cross section. [Code available](https://github.com/hdruckenmiller/SFD). See also [Druckenmiller and Hsiang, 2018](https://www.nber.org/papers/w25177).
 
 ## Replication code for research projects
 Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper.
