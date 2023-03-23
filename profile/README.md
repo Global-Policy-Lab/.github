@@ -1,10 +1,19 @@
 # Global Policy Lab GitHub
-Note that while many Global Policy Lab repositories are hosted under the organization, there are also many repositories that are hosted under individual accounts. For this reason, code for specific projects is hyperlinked below:
+Note that while many Global Policy Lab (GPL) repositories are hosted under our organization account, there are also many repositories that are hosted under individual accounts. For this reason, code for specific projects is hyperlinked below. For questions, contact Luke Sherman via lsherman@berkeley.edu.
 
-## Contributing to our code base
-We encourage those people using our code to make contributions to our codebases. While some code must persist unchanged for replication purposes, other code bases are designed to be continuously expanded. For questions, contact Luke Sherman via lsherman@berkeley.edu.
+We divide our code into two sections: (1) Code-based tools and packages for general and (2) Replication code for research projects. The former is designed to be continuously improved and updated, while the latter is not. 
 
-## Projects with replication code
+
+## Code-based tools and packages
+Code-based tools and packages are designed for general use in the research community. We encourage researchers using our code-based tools and packages to make contributions via pull request. For questions, contact Luke Sherman via lsherman@berkeley.edu.
+
+- Cider - Python package for poverty prediction and targeting with mobile phone metadata. [Code available](https://github.com/Global-Policy-Lab/cider). [Documentation available](https://global-policy-lab.github.io/cider-documentation/intro.html). See also [Aiken et al, 2022](https://www.nature.com/articles/s41586-022-04484-9).
+
+- SFD - R code for for computing the spatial first differences (SFD) estimator. SFD is a research design that exploits the spatial structure of the data to address unobservable heterogeneity in cross section. [Code available](https://github.com/Global-Policy-Lab/cider). See also [Druckenmiller and Hsiang, 2018](https://www.nber.org/papers/w25177).
+
+## Replication code for research projects
+Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper.
+
 #### 2023
 - Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/lukesherman/hdi_downscaling_mosaiks). [Data available](mosaiks.org/hdi).
 
