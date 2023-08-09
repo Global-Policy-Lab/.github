@@ -15,7 +15,7 @@ Code-based tools and packages are designed for general use in the research commu
 Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper.
 
 #### 2023
-- Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/lukesherman/hdi_downscaling_mosaiks). [Data available](https://www.mosaiks.org/hdi).
+- Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/Global-Policy-Lab/hdi_downscaling_mosaiks). [Data available](https://www.mosaiks.org/hdi).
 
 #### 2022
 - Chi et al (2022). Micro-estimates of wealth for all low- and middle-income countries. [_PNAS_](https://www.pnas.org/doi/pdf/10.1073/pnas.2113658119). [Code available](https://github.com/g-chi/lmic-poverty). [Website](http://www.povertymaps.net/#4.09/-12.84/27.34/-15.2/60). [Data availabe](https://data.humdata.org/dataset/relative-wealth-index).
