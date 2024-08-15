@@ -1,11 +1,11 @@
 # Global Policy Lab GitHub
-Note that while many Global Policy Lab (GPL) repositories are hosted under our organization account, there are also many repositories that are hosted under individual accounts. For this reason, code for specific projects is hyperlinked below. For questions, contact Luke Sherman via lsherman@berkeley.edu.
+Note that while many Global Policy Lab (GPL) repositories are hosted under our organization account, there are also many repositories that are hosted under individual accounts. For this reason, code for specific projects is hyperlinked below. For questions, contact Luke Sherman via lsherm@stanford.edu.
 
 We divide our code into two sections: (1) Code-based tools and packages for general and (2) Replication code for research projects. The former is designed to be continuously improved and updated, while the latter is not. 
 
 
 ## Code-based tools and packages
-Code-based tools and packages are designed for general use in the research community. We encourage researchers using our code-based tools and packages to make contributions via pull request. For questions, contact Luke Sherman via lsherman@berkeley.edu.
+Code-based tools and packages are designed for general use in the research community. We encourage researchers using our code-based tools and packages to make contributions via pull request. For questions, contact Luke Sherman via lsherm@stanford.edu.
 
 - Cider - Python package for poverty prediction and targeting with mobile phone metadata. [Code available](https://github.com/Global-Policy-Lab/cider). [Documentation available](https://global-policy-lab.github.io/cider-documentation/intro.html). See also [Aiken et al, 2022](https://www.nature.com/articles/s41586-022-04484-9).
 
