@@ -13,6 +13,8 @@ Code-based tools and packages are designed for general use in the research commu
 
 ## Replication code for research projects
 Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper.
+#### 2024
+- Young and Hsiang (2024). Mortality caused by tropical cyclones in the United States. [_Nature_](https://www.nature.com/articles/s41586-024-07945-5). [Code available](https://github.com/Global-Policy-Lab/young_hsiang_tc_mortality). [Data Available](https://zenodo.org/records/11662454).
 
 #### 2023
 - Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/Global-Policy-Lab/hdi_downscaling_mosaiks). [Data available](https://www.mosaiks.org/hdi).
