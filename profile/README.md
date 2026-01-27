@@ -13,6 +13,11 @@ Code-based tools and packages are designed for general use in the research commu
 
 ## Replication code for research projects
 Research project code must persist for replication purposes. It will not typically be updated following the publication of the corresponding research paper.
+
+#### 2025
+- Hultgren et al (2025). Impacts of climate change on global agriculture accounting for adaptation. [_Nature_](https://www.nature.com/articles/s41586-025-09085-w). [Data available](https://zenodo.org/records/14511340).
+- Bearpark, Hogan, and Hsiang (2025). Data anomalies and the economic commitment of climate change.  [_Nature_](https://www.nature.com/articles/s41586-025-09320-4). [Code Available](https://github.com/Global-Policy-Lab/ma_klw).
+
 #### 2024
 - Young and Hsiang (2024). Mortality caused by tropical cyclones in the United States. [_Nature_](https://www.nature.com/articles/s41586-024-07945-5). [Code available](https://github.com/Global-Policy-Lab/young_hsiang_tc_mortality). [Data Available](https://zenodo.org/records/11662454).
 
