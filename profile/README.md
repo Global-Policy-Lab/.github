@@ -13,7 +13,7 @@ Code-based tools and packages are designed for general use in the research commu
 Research projects are listed below. If publications are associated with replication code and/or data those links will be included below. Code will not typically be updated following the publication of the corresponding research paper.
 
 #### 2025
-- Hsiang (2025).The Global Economic Impact of Climate Change: An Empirical Perspective. [_NBER Working Paper_](https://www.nber.org/papers/w34357).
+- Hsiang (2025). The Global Economic Impact of Climate Change: An Empirical Perspective. [_NBER Working Paper_](https://www.nber.org/papers/w34357).
 - Hultgren et al (2025). Impacts of climate change on global agriculture accounting for adaptation. [_Nature_](https://www.nature.com/articles/s41586-025-09085-w). [Data available](https://zenodo.org/records/14511340).
 - Bearpark, Hogan, and Hsiang (2025). Data anomalies and the economic commitment of climate change.  [_Nature_](https://www.nature.com/articles/s41586-025-09320-4). [Code Available](https://github.com/Global-Policy-Lab/ma_klw).
 - Lee, Wilson, and Hsiang (2025). Empirically Distinguishing Health Impacts of Transboundary and Domestic Air Pollution in Mixture. [_NBER Working Paper_](https://www.nber.org/papers/w33379).
@@ -45,7 +45,7 @@ Research projects are listed below. If publications are associated with replicat
 
 
 #### 2020
-- Hsiang et al (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. [_Nature_](https://www.nature.com/articles/s41586-020-2404-8). [Code available](https://codeocean.com/capsule/1887579/tree/v1). [Website](http://www.globalpolicy.science/covid19).
+- Hsiang et al (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. [_Nature_](https://www.nature.com/articles/s41586-020-2404-8). [Code available](https://codeocean.com/capsule/1887579/tree/v1).
 
 #### 2019
 - Englander et al (2019). Property rights and the protection of global marine resources [_Nature Sustainability_](https://www.nature.com/articles/s41893-019-0389-9#code-availability). [Code available](https://github.com/englander/replication_eez).
@@ -58,8 +58,49 @@ Research projects are listed below. If publications are associated with replicat
 - Proctor et al (2018). Estimating global agricultural effects of geoengineering using volcanic eruptions. [_Nature_](https://www.nature.com/articles/s41586-018-0417-3). [Code and data available](https://zenodo.org/communities/global-agricultural-effects-of-geoengineering-volcanic-eruptions/).
 - Burke et al (2018). Higher temperatures increase suicide rates in the United States and Mexico. [_Nature Climate Change_](https://www.nature.com/articles/s41558-018-0222-x). [Code and data available](https://github.com/burke-lab/NCC2018). 
 - Hsiang and Kopp (2018). An Economist's Guide to Climate Change Scienc. [_Journal of Economic Perspectives_](https://www.aeaweb.org/articles?id=10.1257%2Fjep.32.4.3).
-- Zivin, Hsiang, and Neidell (2018). [_Journal of the Association of Environmental and Resource Economists_](https://gps.ucsd.edu/_files/faculty/graff-zivin/graff-zivin-publications-2018.pdf)/
+- Zivin, Hsiang, and Neidell (2018). [_Journal of the Association of Environmental and Resource Economists_](https://gps.ucsd.edu/_files/faculty/graff-zivin/graff-zivin-publications-2018.pdf).
+
+#### 2017
+- Bolliger et al (2017). Ground Control to Major Tom: the importance of field surveys in remotely sensed data analysis. [_arXiV_](https://arxiv.org/abs/1710.09342). 
+- Hsiang et al (2017). Estimating economic damage from climate change in the United States. [_Science_](https://www.science.org/doi/10.1126/science.aal4369).
+- Deryugina and Hsiang (2017). The Marginal Product of Climate. [_NBER Working Paper_](https://www.nber.org/papers/w24072).
+
+#### 2016
+- Carleton and Hsiang (2016). Social and economic impacts of climate. [_Science_](https://www.science.org/doi/10.1126/science.aad9837).
+- Hsiang and Sekar (2016). Does Legalization Reduce Black Market Activity? Evidence from a Global Ivory Experiment and Elephant Poaching Data. [_NBER Working Paper_](https://www.nber.org/papers/w22314).
+- Hsiang and Sobel (2016). Potentially Extreme Population Displacement and Concentration in the Tropics Under Non-Extreme Warming. [_Scientific Reports_](https://www.nature.com/articles/srep25697).
+- Carleton, Hsiang, and Burke (2016). Conflict in a Changing Climate. [_The European Physical Journal_](https://web.stanford.edu/~mburke/papers/Carleton_Hsiang_Burke2016.pdf).
+- Hsiang (2016). Climate Econometrics. [_Annual Review of Resource Economics_](https://www.annualreviews.org/content/journals/10.1146/annurev-resource-100815-095343).
+- Burke et al (2016). Opportunities for advances in climate change economics. [_Science_](https://www.science.org/doi/10.1126/science.aad9634).
+
+#### 2015
+- Burke, Hsiang, and Miguel (2015). Global non-linear effect of temperature on economic production. [Code and data avaialble](https://purl.stanford.edu/wb587wt4560). [Website](http://web.stanford.edu/~mburke/climate/). 
+- Houser et al (2015). [_Economic Risks of Climate Change: An American Prospectus_](https://cup.columbia.edu/book/economic-risks-of-climate-change/9780231174565/). Columbia University Press.
+- Burke, Hsiang, and Miguel (2015). Climate and Conflict. [_Annual Review of Economics_](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080614-115430).
+- Hsiang and Jina (2015). Geography, Depreciation, and Growth. [_American Economic Review_](https://www.aeaweb.org/articles?id=10.1257/aer.p20151029).
+- Hsiang and Meng (2015). Tropical Economics. [_American Economic Review_](https://www.aeaweb.org/articles?id=10.1257/aer.p20151030).
+
+#### 2014
+- Hsiang and Jina (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence From 6,700 Cyclones. [_NBER Working Paper_](https://www.nber.org/papers/w20352).
+- Deryugina and Hsiang (2014). Does the Environment Still Matter? Daily Temperature and Income in the United States. [_NBER Working Paper_](https://www.nber.org/papers/w20750).
+- Hsiang, Burke, and Miguel (2014). Reconciling climate-conflict meta-analyses: reply to Buhaug et al. [_Climatic Change_](https://www.researchgate.net/publication/284825284_Reconciling_climate-conflict_meta-analyses_reply_to_Buhaug_et_al).
+- Bohra-Mishra, Oppenheimer, and Hsiang (2014). Nonlinear permanent migration response to climatic variations but minimal response to disasters. [_PNAS_](https://www.pnas.org/doi/10.1073/pnas.1317166111).
+- Hsiang and Burke (2014). Climate, conflict, and social stability: what does the evidence say? [_Climatic Change_](https://link.springer.com/article/10.1007/s10584-013-0868-3).
+- Hsiang and Meng (2014). Reconciling disagreement over climate–conflict results in Africa. [_PNAS_](https://www.pnas.org/doi/full/10.1073/pnas.1316006111).
+
+#### 2013
+- Miguel, Hsiang, and Burke (2013). Reconciling Temperature-conflict Results in Kenya. [_CEGA Working Paper_](https://emiguel.econ.berkeley.edu/assets/assets/miguel_research/54/Reconciling_Tempurature-conflict_Results_in_Kenya.pdf). [Code and data available](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27558). 
+- Hsiang, Burke, and Miguel (2013). Quantifying the Influence of Climate on Human Conflict. [_Science_](https://www.science.org/doi/10.1126/science.1235367).
+- Aufhammer, Hsiang, Schlenker, and Sobel (2013). Using Weather Data and Climate Model Output in Economic Analyses of Climate Change. [_Review of Environmental Economics and Policy_](https://www.journals.uchicago.edu/doi/10.1093/reep/ret016).
 
 
+#### 2012
+- Anttila-Hughes and Hsiang (2012). Destruction, Disinvestment, and Death: Economic and Human Losses Following Environmental Disaster. [_SSRN_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2220501).
+- Hsiang (2012). Visually-Weighted Regression. [_SSRN_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2265501).
+- Hsiang and Narita (2012). Adaptation to Cyclone Risk: Evidence from the Global Cross-Section. [_Climate Change Economics_](https://www.jstor.org/stable/climchanecon.3.2.08).
 
-_Older projects will be listed soon_
+#### 2011
+- Hsiang, Meng, and Cane (2011). Civil conflicts are associated with the global climate. [_Nature_](https://www.nature.com/articles/nature10311).
+
+#### 2010
+- Hsiang (2010). Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America. [_PNAS_](https://www.pnas.org/doi/10.1073/pnas.1009510107).
