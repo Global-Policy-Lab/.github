@@ -12,6 +12,10 @@ Code-based tools and packages are designed for general use in the research commu
 ## Replication code for research projects
 Research projects are listed below. If publications are associated with replication code and/or data those links will be included below. Code will not typically be updated following the publication of the corresponding research paper.
 
+#### 2026
+- Sherman et al (2026). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_Nature Communications_](https://www.nature.com/articles/s41467-026-68805-6). [Code available](https://github.com/Global-Policy-Lab/hdi_downscaling_mosaiks). [Data available](https://www.mosaiks.org/hdi).
+- Greenhill et al (2026). Using markets to adapt to climate change. [_Science_](https://www.science.org/doi/10.1126/science.aea7431).
+
 #### 2025
 - Hsiang (2025). The Global Economic Impact of Climate Change: An Empirical Perspective. [_NBER Working Paper_](https://www.nber.org/papers/w34357).
 - Hultgren et al (2025). Impacts of climate change on global agriculture accounting for adaptation. [_Nature_](https://www.nature.com/articles/s41586-025-09085-w). [Data available](https://zenodo.org/records/14511340).
@@ -28,7 +32,6 @@ Research projects are listed below. If publications are associated with replicat
 
 
 #### 2023
-- Sherman et al (2023). Global High Resolution Estimates of the Human Development Index using Satellite Imagery and Machine Learning. [_NBER Working Paper_](https://www.nber.org/papers/w31044). [Code available](https://github.com/Global-Policy-Lab/hdi_downscaling_mosaiks). [Data available](https://www.mosaiks.org/hdi).
 - Burke et al (2023). Quantifying climate change loss and damage consistent with a social cost of greenhouse gases.  [_NBER Working Paper_](https://www.nber.org/papers/w31658).
 - Depsky et al (2023). DSCIM-Coastal v1.1: an open-source modeling platform for global impacts of sea level rise. [_Geoscientific Model Development_](https://gmd.copernicus.org/articles/16/4331/2023/). [_Code and Data Available_](https://zenodo.org/records/7693869). 
 
